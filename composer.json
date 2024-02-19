@@ -1,0 +1,24 @@
+{
+    "name": "axguowen/ctyun-sms",
+    "description": "Ctyun php sdk sms package",
+    "keywords": [
+        "ctyun",
+        "sms"
+    ],      
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "axguowen",
+            "email": "axguowen@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "axguowen/ctyun-common": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "axguowen\\ctyun\\services\\sms\\": "src"
+        }
+    }
+}
