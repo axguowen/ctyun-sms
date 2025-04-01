@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=7.2.5",
-        "axguowen/ctyun-common": "^1.0"
+        "axguowen/ctyun-common": "^1.0||dev-master"
     },
     "autoload": {
         "psr-4": {
